@@ -1,3 +1,18 @@
+# ideas
+take out the npc aspect of the job
+
+make it so that police can request a tow pick up
+
+make a marker for the request?
+
+have similar towing mechanics
+
+have a system though that allows the tow company to have the car within the impound system for a certain time (depends on crime / reason it was towed)
+
+after that time is up, the car owner can then get the car out
+
+maybe add preset config values for reasons for towing / impound times
+
 # qb-towjob
 Towing Job For QB-Core
 
